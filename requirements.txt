@@ -3,5 +3,5 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-surprise
+scikit-surprise==1.1.3
 streamlit
